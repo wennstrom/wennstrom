@@ -2,12 +2,12 @@
 
 Welcome to my github.
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
-<br/<br/>
+<br/><br/><br/>
 <b>Techs i've worked with</b>
-<br/>
+<br/><br/>
 Frontend:
 JS & TS | React | Angular | Bootstrap
-<br/>
+<br/><br/>
 Backend:
 C# | PHP | SQL | ElasticSearch | Symfony | Entity Framework
 
