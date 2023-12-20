@@ -3,11 +3,11 @@
 Welcome to my github.
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
 
-# Techs i've worked with
-<b>Frontend</b>:
+<b>Techs i've worked with</b>
+Frontend:
 JS & TS | React | Angular | Bootstrap
 
-<b>Backend</b>:
+Backend:
 C# | PHP | SQL | ElasticSearch | Symfony | Entity Framework
 
 <!--
