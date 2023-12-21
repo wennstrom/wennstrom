@@ -4,7 +4,7 @@ Welcome to my github.
 <br/>
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
 <br/><br/>
-Tech i've worked with
+Tech i've worked with:
 <br/>
 Frontend:
 JS & TS | React | Angular | Bootstrap
