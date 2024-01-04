@@ -1,8 +1,10 @@
+<section>
 <h3>Hi there 👋 </h3>
 and welcome to my github.
 <br/>
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
-<hr /> 
+</section>
+<section>
 Tech i've worked with:
 <br/>
 Frontend:
@@ -10,6 +12,7 @@ JS & TS | React | Angular | Bootstrap
 <br/>
 Backend:
 C# | PHP | SQL | ElasticSearch | Symfony | Entity Framework
+</section>
 
 <!--
 **wennstrom/wennstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
