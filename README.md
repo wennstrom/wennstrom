@@ -2,7 +2,6 @@
 and welcome to my github.
 <br/>
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
-<br/><br/>
 <hr /> 
 Tech i've worked with:
 <br/>
