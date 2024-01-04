@@ -1,14 +1,14 @@
-<h3>hi there ✋ </h3>
+<h3>Hi there 👋 </h3>
 and welcome to my github.
 <br/>
-most of my projects here are small sideprojects i developed for fun and to learn new stuff.
+Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
 <br/><br/>
-tech i've worked with:
+Tech i've worked with:
 <br/>
-frontend:
+Frontend:
 JS & TS | React | Angular | Bootstrap
 <br/>
-backend:
+Backend:
 C# | PHP | SQL | ElasticSearch | Symfony | Entity Framework
 
 <!--
