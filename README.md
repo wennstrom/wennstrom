@@ -1,12 +1,11 @@
-<section>
+
 <h3>Hi there 👋 </h3>
 and welcome to my github.
 <br/>
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
-</section>
-<section>
+<br/> <br />
 Tech i've worked with:
-<br/>
+<br />
 Frontend:
 JS & TS | React | Angular | Bootstrap
 <br/>
