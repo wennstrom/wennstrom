@@ -1,4 +1,5 @@
-welcome to my github.
+<h3>hi there ✋ </h3>
+and welcome to my github.
 <br/>
 most of my projects here are small sideprojects i developed for fun and to learn new stuff.
 <br/><br/>
