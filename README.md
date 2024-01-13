@@ -1,6 +1,6 @@
 
 <h3>Hi there 👋 </h3>
-and welcome to my github.
+Welcome to my github.
 <br/>
 Most of my projects here are small sideprojects i developed for fun and to learn new stuff.
 <br/> <br />
