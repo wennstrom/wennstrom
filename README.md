@@ -1,19 +1,5 @@
+Fullstack dev trying to survive. Projects here are mostly for learning or stuff I did in school. 
 
-<h3>Hi there 👋 </h3>
-Welcome to my github.
-<br/>
-Most of my projects here are school projects or small sideprojects i developed for fun and to learn new stuff.
-<br/> <br />
-Tech i've worked with:
-<br />
-Frontend:
-JS & TS | React | Angular | Bootstrap
-<br/>
-Backend:
-C# | PHP | SQL | ElasticSearch | Symfony | Entity Framework
-</section>
-
-<!--
 **wennstrom/wennstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
